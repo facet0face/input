@@ -1,2 +1,2 @@
 # input
-A library for moving your mouse in Windows written in Nim.
+A library for input in Windows written in Nim.
