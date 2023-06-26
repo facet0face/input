@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "facet0face"
-description   = "A library for moving your mouse in Windows written in Nim."
+description   = "A library for input in Windows written in Nim."
 license       = "MIT"
 srcDir        = "src"
 
